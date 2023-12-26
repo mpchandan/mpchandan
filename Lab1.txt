@@ -1,0 +1,364 @@
+Microsoft Windows [Version 10.0.22631.2715]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\mpcha>cd\
+
+C:\>cd xampp
+
+C:\xampp>cd mysql
+
+C:\xampp\mysql>cd bin
+
+C:\xampp\mysql\bin>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 48C3-D98D
+
+ Directory of C:\xampp\mysql\bin
+
+06-12-2023  09.25 AM    <DIR>          .
+06-12-2023  09.24 AM    <DIR>          ..
+15-07-2022  09.37 PM            21,984 api-ms-win-core-console-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-console-l1-2-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-datetime-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-debug-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-errorhandling-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-fibers-l1-1-0.dll
+15-07-2022  09.37 PM            26,080 api-ms-win-core-file-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-file-l1-2-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-file-l2-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-handle-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-heap-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-interlocked-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-libraryloader-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-localization-l1-2-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-memory-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-namedpipe-l1-1-0.dll
+15-07-2022  09.37 PM            21,992 api-ms-win-core-processenvironment-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-processthreads-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-processthreads-l1-1-1.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-profile-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-rtlsupport-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-string-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-synch-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-core-synch-l1-2-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-sysinfo-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-core-timezone-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-core-util-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-crt-conio-l1-1-0.dll
+15-07-2022  09.37 PM            26,080 api-ms-win-crt-convert-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-crt-environment-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-crt-filesystem-l1-1-0.dll
+15-07-2022  09.37 PM            21,976 api-ms-win-crt-heap-l1-1-0.dll
+15-07-2022  09.37 PM            22,000 api-ms-win-crt-locale-l1-1-0.dll
+15-07-2022  09.37 PM            30,200 api-ms-win-crt-math-l1-1-0.dll
+15-07-2022  09.37 PM            30,200 api-ms-win-crt-multibyte-l1-1-0.dll
+15-07-2022  09.37 PM            75,232 api-ms-win-crt-private-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-crt-process-l1-1-0.dll
+15-07-2022  09.37 PM            26,072 api-ms-win-crt-runtime-l1-1-0.dll
+15-07-2022  09.37 PM            26,072 api-ms-win-crt-stdio-l1-1-0.dll
+15-07-2022  09.37 PM            26,104 api-ms-win-crt-string-l1-1-0.dll
+15-07-2022  09.37 PM            21,984 api-ms-win-crt-time-l1-1-0.dll
+15-07-2022  09.37 PM            22,008 api-ms-win-crt-utility-l1-1-0.dll
+30-10-2023  06.29 PM         4,495,784 aria_chk.exe
+30-10-2023  06.29 PM         4,073,896 aria_dump_log.exe
+30-10-2023  06.29 PM         4,309,416 aria_ftdump.exe
+30-10-2023  06.29 PM         4,352,936 aria_pack.exe
+30-10-2023  06.29 PM         4,475,816 aria_read_log.exe
+11-10-2023  02.12 PM           327,576 concrt140.dll
+30-10-2023  06.28 PM         3,495,336 innochecksum.exe
+30-10-2023  06.28 PM        15,732,648 mariabackup.exe
+30-10-2023  06.28 PM         3,426,728 mbstream.exe
+11-10-2023  02.12 PM           578,384 msvcp140.dll
+11-10-2023  02.12 PM            35,704 msvcp140_1.dll
+11-10-2023  02.12 PM           267,160 msvcp140_2.dll
+11-10-2023  02.12 PM            50,072 msvcp140_atomic_wait.dll
+11-10-2023  02.12 PM            31,640 msvcp140_codecvt_ids.dll
+06-12-2023  09.25 AM             5,776 my.ini
+30-10-2023  06.29 PM         3,739,560 myisamchk.exe
+30-10-2023  06.29 PM         3,620,264 myisamlog.exe
+30-10-2023  06.29 PM         3,639,720 myisampack.exe
+30-10-2023  06.29 PM         3,603,368 myisam_ftdump.exe
+30-10-2023  06.19 PM            25,746 myrocks_hotbackup
+30-10-2023  06.28 PM         3,784,616 mysql.exe
+30-10-2023  06.28 PM         3,688,360 mysqladmin.exe
+30-10-2023  06.28 PM         3,822,504 mysqlbinlog.exe
+30-10-2023  06.28 PM         3,700,648 mysqlcheck.exe
+30-10-2023  06.29 PM        16,664,488 mysqld.exe
+30-10-2023  06.28 PM         3,774,888 mysqldump.exe
+30-10-2023  06.19 PM             8,478 mysqldumpslow.pl
+30-10-2023  06.19 PM            28,628 mysqld_multi.pl
+30-10-2023  06.19 PM            36,124 mysqlhotcopy.pl
+30-10-2023  06.28 PM         3,673,000 mysqlimport.exe
+30-10-2023  06.28 PM         3,672,488 mysqlshow.exe
+30-10-2023  06.28 PM         3,690,408 mysqlslap.exe
+30-10-2023  06.19 PM             8,878 mysql_config.pl
+30-10-2023  06.19 PM             4,384 mysql_convert_table_format.pl
+30-10-2023  06.29 PM         5,574,568 mysql_install_db.exe
+30-10-2023  06.29 PM         3,345,832 mysql_ldb.exe
+30-10-2023  06.28 PM         3,413,928 mysql_plugin.exe
+30-10-2023  06.29 PM         3,426,728 mysql_tzinfo_to_sql.exe
+30-10-2023  06.28 PM         3,522,984 mysql_upgrade.exe
+30-10-2023  06.29 PM         3,406,760 mysql_upgrade_service.exe
+30-10-2023  06.29 PM         2,673,576 mysql_upgrade_wizard.exe
+30-10-2023  06.28 PM         3,418,536 my_print_defaults.exe
+30-10-2023  06.28 PM         3,542,440 perror.exe
+30-10-2023  06.28 PM         3,396,008 replace.exe
+30-10-2023  06.29 PM         1,482,664 sst_dump.exe
+15-07-2022  09.37 PM         1,123,832 ucrtbase.dll
+11-10-2023  02.12 PM           109,440 vcruntime140.dll
+30-05-2022  04.27 PM            44,320 vcruntime140_1.dll
+              90 File(s)    146,340,758 bytes
+               2 Dir(s)  431,764,160,512 bytes free
+
+C:\xampp\mysql\bin>mysql -u root -p -h 127.0.0.1
+Enter password:
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 9
+Server version: 10.4.32-MariaDB mariadb.org binary distribution
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| chandan            |
+| information_schema |
+| mpc                |
+| mpc2               |
+| mysql              |
+| performance_schema |
+| phpmyadmin         |
+| test               |
++--------------------+
+8 rows in set (0.022 sec)
+
+MariaDB [(none)]> create database lab1;
+Query OK, 1 row affected (0.001 sec)
+
+MariaDB [(none)]> use lab1;
+Database changed
+MariaDB [lab1]> CREATE TABLE
+    -> BOOK_AUTHORS
+    -> (AUTHOR_NAME VARCHAR2
+    -> (20),
+    -> BOOK_ID REFERENCES BOOK (BOOK_ID) ON DELETE
+    -> CREATE TABLE PUBLISHER(NAME VARCHAR(20)PRIMARY KEY,PHONE INTEGER,ADDRESS VARCHAR2(20));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'(20),
+BOOK_ID REFERENCES BOOK (BOOK_ID) ON DELETE
+CREATE TABLE PUBLISHER(NAM...' at line 4
+MariaDB [lab1]> CREATE TABLE PUBLISHER(NAME VARCHAR(20)PRIMARY KEY,PHONE INTEGER,ADDRESS VARCHAR(20));
+Query OK, 0 rows affected (0.030 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK(BOOK_ID INT PRIMARY KEY,TITLE VARCHAR(40),PUBLISHER_NAME VARCHAR(20),PUB_YEAR DATE,FOREIGN KEY(PUBLISHER_NAME)REFERENCES PUBLISHER(NAME));
+Query OK, 0 rows affected (0.030 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_AUTHORS(BOOK_ID INT PRIMARY KEY,AUTHOR_NAME VARCHAR(20),FOREIGN KEY(BOOK_ID)REFERENCES BOOK(BOOK_ID)ON DELETE CASCADE);
+Query OK, 0 rows affected (0.028 sec)
+
+MariaDB [lab1]> CREATE TABLE LIBRARY_PROGRAM(PROGRAM_ID INT PRIMARY KEY,PROGRAM_NAME VARCHAR(20),ADDRESS VARCHAR(40));
+Query OK, 0 rows affected (0.024 sec)
+
+MariaDB [lab1]> DESC TABLE;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'TABLE' at line 1
+MariaDB [lab1]> DESC PUBLISHER;
++---------+-------------+------+-----+---------+-------+
+| Field   | Type        | Null | Key | Default | Extra |
++---------+-------------+------+-----+---------+-------+
+| NAME    | varchar(20) | NO   | PRI | NULL    |       |
+| PHONE   | int(11)     | YES  |     | NULL    |       |
+| ADDRESS | varchar(20) | YES  |     | NULL    |       |
++---------+-------------+------+-----+---------+-------+
+3 rows in set (0.017 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_COPIES (
+    -> Book_Id INT,
+    -> Program_Id INT,
+    -> No_of_Copies INT,
+    -> PRIMARY KEY(Book_Id, Program_Id),
+    -> FOREIGN KEY(Book_Id) REFERENCES Book(Book_Id) ON DELETE CASCADE
+    -> FOREIGN KEY(Program_Id) REFERENCES LIBRARY_PROGRAM(Program_Id) ON DELETE CASCADE
+    -> );
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'FOREIGN KEY(Program_Id) REFERENCES LIBRARY_PROGRAM(Program_Id) ON DELETE CASC...' at line 7
+MariaDB [lab1]> CREATE TABLE BOOK_COPIES(BOOK_ID INT,PROGRAM_ID INT,NO)OF)COPIES INT,PRIMARY KEY(BOOK_ID,PROGRAM_ID),FOREIGN KEY(BOOK_ID)REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_PROGRAM(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near')OF)COPIES INT,PRIMARY KEY(BOOK_ID,PROGRAM_ID),FOREIGN KEY(BOOK_ID)REFERENCES...' at line 1
+MariaDB [lab1]> CREATE TABLE BOOK_COPIES(BOOK_ID INT,PROGRAM_ID INT,NO_OF_COPIES INT,PRIMARY
+KEY(BOOK_ID,PROGRAM_ID),FOREIGN KEY(BOOK_ID)REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_PROGRAM(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_PROGRAM(PROGRAM_ID) ON DELETE CASCADE)' at line 1
+MariaDB [lab1]> CREATE TABLE BOOK_COPIES(BOOK_ID INT,PROGRAM_ID INT,NO_OF_COPIES INT,PRIMARY KEY(BOOK_ID,PROGRAM_ID),FOREIGN KEY(BOOK_ID)REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_PROGRAM(PROGRAM_ID) ON DELETE CASCADE);
+Query OK, 0 rows affected (0.028 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]>
+MariaDB [lab1]>
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE)' at line 1
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> DESC LIBRARY_BRANCH;
+ERROR 1146 (42S02): Table 'lab1.library_branch' doesn't exist
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INTEGER PRIMARY KEY,BRANCH_NAME INTEGER PRIMARY KEY,BRANCH_NAME VARCHAR2(50),ADDRESS VARCHAR2(50));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'(50),ADDRESS VARCHAR2(50))' at line 1
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INTEGER PRIMARY KEY,BRANCH_NAME INTEGER PRIMARY KEY,BRANCH_NAME VARCHAR(50),ADDRESS VARCHAR(50));
+ERROR 1060 (42S21): Duplicate column name 'BRANCH_NAME'
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INT PRIMARY KEY,BRANCH_NAME VARCHAR2(50),ADDRESS VARCHAR2(50));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'(50),ADDRESS VARCHAR2(50))' at line 1
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INT PRIMARY KEY,BRANCH_NAME VARCHAR(50),ADDRESS VARCHAR(50));
+Query OK, 0 rows affected (0.021 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> DESC LIBRARY_BRANCH;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| BRANCH_ID   | int(11)     | NO   | PRI | NULL    |       |
+| BRANCH_NAME | varchar(50) | YES  |     | NULL    |       |
+| ADDRESS     | varchar(50) | YES  |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+3 rows in set (0.014 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INT FOREIGN KEY,BRANCH_NAME VARCHAR(50),ADDRESS VARCHAR(50));
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'FOREIGN KEY,BRANCH_NAME VARCHAR(50),ADDRESS VARCHAR(50))' at line 1
+MariaDB [lab1]> CREATE TABLE LIBRARY_BRANCH(BRANCH_ID INT PRIMARY KEY,BRANCH_NAME VARCHAR(50),ADDRESS VARCHAR(50));
+ERROR 1050 (42S01): Table 'library_branch' already exists
+MariaDB [lab1]> DESC LIBRARY_BRANCH;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| BRANCH_ID   | int(11)     | NO   | PRI | NULL    |       |
+| BRANCH_NAME | varchar(50) | YES  |     | NULL    |       |
+| ADDRESS     | varchar(50) | YES  |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+3 rows in set (0.013 sec)
+
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_BRANCH(PROGRAM_ID) ON DELETE CASCADE);
+ERROR 1005 (HY000): Can't create table `lab1`.`book_lending` (errno: 150 "Foreign key constraint is incorrectly formed")
+MariaDB [lab1]> CREATE TABLE BOOK_LENDING(BOOK_ID INT,PROGRAM_ID INT,CARD_NO INT,DATE_OUT DATE,DUE_DATE DATE,PRIMARY KEY(BOOK_ID,PROGRAM_ID,CARD_NO),FOREIGN KEY(BOOK_ID) REFERENCES BOOK(BOOK_ID) ON DELETE CASCADE,FOREIGN KEY(PROGRAM_ID)REFERENCES LIBRARY_PROGRAM(PROGRAM_ID) ON DELETE CASCADE);
+Query OK, 0 rows affected (0.027 sec)
+
+MariaDB [lab1]> DESC BOOK
+    -> DESC BOOK_LENDING;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'DESC BOOK_LENDING' at line 2
+MariaDB [lab1]> DESC BOOK_LENDING;
++------------+---------+------+-----+---------+-------+
+| Field      | Type    | Null | Key | Default | Extra |
++------------+---------+------+-----+---------+-------+
+| BOOK_ID    | int(11) | NO   | PRI | NULL    |       |
+| PROGRAM_ID | int(11) | NO   | PRI | NULL    |       |
+| CARD_NO    | int(11) | NO   | PRI | NULL    |       |
+| DATE_OUT   | date    | YES  |     | NULL    |       |
+| DUE_DATE   | date    | YES  |     | NULL    |       |
++------------+---------+------+-----+---------+-------+
+5 rows in set (0.014 sec)
+
+MariaDB [lab1]> INSERT INTO PUBLISHER VALUES('PEARSON','MYSORE',87654);
+Query OK, 1 row affected, 1 warning (0.025 sec)
+
+MariaDB [lab1]> INSERT INTO BOOK VALUES(101,'DATABASE SYSTEM','PEARSON','2021');
+Query OK, 1 row affected, 1 warning (0.013 sec)
+
+MariaDB [lab1]> INSERT INTO BOOK_AUTHORS VALUES
+    -> INSERT INTO BOOK_AUTHORS VALUES(101,'DONALD');
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'INSERT INTO BOOK_AUTHORS VALUES(101,'DONALD')' at line 2
+MariaDB [lab1]> DESC BOOK_AUTHORS
+    -> DESC BOOK_AUTHORS
+    -> DESC BOOK_AUTHORS;
+ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near'DESC BOOK_AUTHORS
+DESC BOOK_AUTHORS' at line 2
+MariaDB [lab1]> DESC BOOK_AUTHORS;
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| BOOK_ID     | int(11)     | NO   | PRI | NULL    |       |
+| AUTHOR_NAME | varchar(20) | YES  |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
+2 rows in set (0.013 sec)
+
+MariaDB [lab1]> INSERT INTO BOOK_AUTHORS VALUES(101,'DONALD');
+Query OK, 1 row affected (0.012 sec)
+
+MariaDB [lab1]> INSERT INTO LIBRARY_PROGRAM VALUES(4001,'COMPUTERS','MYSORE');
+Query OK, 1 row affected (0.013 sec)
+
+MariaDB [lab1]> INSERT INTO BOOK_COPIES VALUES(101,4001,15);
+Query OK, 1 row affected (0.014 sec)
+
+MariaDB [lab1]> INSERT INTO BOOK_LENDING VALUES(101,4001,901,'2021-11-15','2021-11-30');
+Query OK, 1 row affected (0.004 sec)
+
+MariaDB [lab1]> SELECT *FROM PUBLISHER;
++---------+-------+---------+
+| NAME    | PHONE | ADDRESS |
++---------+-------+---------+
+| PEARSON |     0 | 87654   |
++---------+-------+---------+
+1 row in set (0.010 sec)
+
+MariaDB [lab1]> INSERT INTO PUBLISHER VALUES('PEARSON',98856,'MYSORE');
+ERROR 1062 (23000): Duplicate entry 'PEARSON' for key 'PRIMARY'
+MariaDB [lab1]> SELECT *FROM PUBLISHER;
++---------+-------+---------+
+| NAME    | PHONE | ADDRESS |
++---------+-------+---------+
+| PEARSON |     0 | 87654   |
++---------+-------+---------+
+1 row in set (0.000 sec)
+
+MariaDB [lab1]> SELECT *FROM BOOK;
++---------+-----------------+----------------+------------+
+| BOOK_ID | TITLE           | PUBLISHER_NAME | PUB_YEAR   |
++---------+-----------------+----------------+------------+
+|     101 | DATABASE SYSTEM | PEARSON        | 0000-00-00 |
++---------+-----------------+----------------+------------+
+1 row in set (0.001 sec)
+
+MariaDB [lab1]> SELECT *FROM BOOK_AUTHORS;
++---------+-------------+
+| BOOK_ID | AUTHOR_NAME |
++---------+-------------+
+|     101 | DONALD      |
++---------+-------------+
+1 row in set (0.000 sec)
+
+MariaDB [lab1]> SELECT *FROM LIBRARY_PROGRAM;
++------------+--------------+---------+
+| PROGRAM_ID | PROGRAM_NAME | ADDRESS |
++------------+--------------+---------+
+|       4001 | COMPUTERS    | MYSORE  |
++------------+--------------+---------+
+1 row in set (0.000 sec)
+
+MariaDB [lab1]> SELECT *FROM BOOK_COPIES;
++---------+------------+--------------+
+| BOOK_ID | PROGRAM_ID | NO_OF_COPIES |
++---------+------------+--------------+
+|     101 |       4001 |           15 |
++---------+------------+--------------+
+1 row in set (0.000 sec)
+
+MariaDB [lab1]> SELECT *FROM BOOK_LENDING;
++---------+------------+---------+------------+------------+
+| BOOK_ID | PROGRAM_ID | CARD_NO | DATE_OUT   | DUE_DATE   |
++---------+------------+---------+------------+------------+
+|     101 |       4001 |     901 | 2021-11-15 | 2021-11-30 |
++---------+------------+---------+------------+------------+
+1 row in set (0.001 sec)
+
+MariaDB [lab1]>
+
+
+
+
+
+
+11302
