@@ -226,3 +226,6 @@ number 5 (use NOT EXISTS operator).
 5. For each department that has more than five employees, retrieve the department number and the
 number of its employees who are making more than Rs.6,00,000.
 ### -----------------------------------------------------------------------------------------------------------------------------
+
+## Contributor
+- [M P Chandan](https://github.com/mpchandan)
